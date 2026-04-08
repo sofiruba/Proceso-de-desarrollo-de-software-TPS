@@ -1,3 +1,7 @@
+package TP3.ej2;
+
+import TP3.ej2.InternetReal;
+
 import java.util.ArrayList;
 import java.util.List;
 

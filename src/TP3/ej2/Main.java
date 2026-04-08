@@ -1,3 +1,4 @@
+package TP3.ej2;
 public class Main {
     public static void main(String[] args) {
         IInternet internet = new ProxyInternet();
