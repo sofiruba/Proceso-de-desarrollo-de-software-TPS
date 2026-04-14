@@ -1,6 +1,7 @@
 package TP2.ej2.factory;
 
 import TP2.ej2.Notificacion;
+import TP2.ej2.modelos.WSP;
 
 public class WSPFactory extends NotificacionFactory{
     public Notificacion crearNotificacion() {
